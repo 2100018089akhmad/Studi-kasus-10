@@ -1,0 +1,33 @@
+      Masukkan Data Mahasiswa Yang Berhasil Masuk
+            Babak Final Lomba Parmatika
+
+Masukkan Nama Finalis  :Abdan
+Masukkan NIM Finalis   :117
+
+Masukkan Nama Finalis  :Bayu
+Masukkan NIM Finalis   :102
+
+Masukkan Nama Finalis  :Akhmad
+Masukkan NIM Finalis   :089
+
+Masukkan Nama Finalis  :Parjo
+Masukkan NIM Finalis   :100
+
+Masukkan Nama Finalis  :Dewi
+Masukkan NIM Finalis   :320
+
+Output:
+Nama ke-1 :Abdan
+Nim :117
+
+Nama ke-2 :Bayu
+Nim :102
+
+Nama ke-3 :Akhmad
+Nim :089
+
+Nama ke-4 :Parjo
+Nim :100
+
+Nama ke-5 :Dewi
+Nim :320
